@@ -1,0 +1,14 @@
+mple:
+
+$ ./6-firstdirectory
+$ file /tmp/my_first_directory/
+/tmp/my_first_directory/: directory
+$
+
+Repo:
+
+    GitHub repository: alx-system_engineering-devops
+    Directory: 0x00-shell_basics
+    File: 6-firstdirectory
+
+
