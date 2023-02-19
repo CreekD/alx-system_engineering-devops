@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(echo "ibase=water; $WATER + stir;$STIR" | bc | tr '0-9a-q' 'bestchola-z'
